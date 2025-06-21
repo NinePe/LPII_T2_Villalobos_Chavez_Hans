@@ -153,9 +153,9 @@ src/
 ## 🌐 Páginas disponibles
 
 - `/` - Página principal (redirige a alquileres)
-- `/alquileres` - Gestión de alquileres
-- `/clientes` - Gestión de clientes  
-- `/peliculas` - Gestión de películas
+- `/alquileres` - Gestión de alquileres -
+- `/clientes` - Gestión de clientes -
+- `/peliculas` - Gestión de películas -
 
 ## 🔧 Problemas que tuve y cómo los solucioné
 
