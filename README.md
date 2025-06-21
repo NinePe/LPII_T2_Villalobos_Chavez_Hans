@@ -162,7 +162,7 @@ src/
 - **Puerto ocupado**: Cambié de 8080 a 8081 en application.properties
 - **Errores de validación**: Agregué spring-boot-starter-validation al pom.xml
 - **Problemas con JSON**: Usé @JsonIgnore para evitar referencias circulares
-- **Formularios de edición**: Tuve que hacer JavaScript para cargar los datos existentes
+- **Formularios de edición**: Tuve que hacer JavaScript para cargar los datos que ya existían
 
 ## 💭 Cosas que podría mejorar
 
