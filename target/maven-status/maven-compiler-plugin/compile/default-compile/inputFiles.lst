@@ -1,0 +1,15 @@
+/Users/hansgiancarlovillaloboschavez/Downloads/LPII_T2_Hans_Villalobos/src/main/java/com/cibertec/t2/T2Application.java
+/Users/hansgiancarlovillaloboschavez/Downloads/LPII_T2_Hans_Villalobos/src/main/java/com/cibertec/t2/controller/AlquilerController.java
+/Users/hansgiancarlovillaloboschavez/Downloads/LPII_T2_Hans_Villalobos/src/main/java/com/cibertec/t2/controller/ClienteController.java
+/Users/hansgiancarlovillaloboschavez/Downloads/LPII_T2_Hans_Villalobos/src/main/java/com/cibertec/t2/controller/HomeController.java
+/Users/hansgiancarlovillaloboschavez/Downloads/LPII_T2_Hans_Villalobos/src/main/java/com/cibertec/t2/controller/PeliculaController.java
+/Users/hansgiancarlovillaloboschavez/Downloads/LPII_T2_Hans_Villalobos/src/main/java/com/cibertec/t2/model/Alquiler.java
+/Users/hansgiancarlovillaloboschavez/Downloads/LPII_T2_Hans_Villalobos/src/main/java/com/cibertec/t2/model/Cliente.java
+/Users/hansgiancarlovillaloboschavez/Downloads/LPII_T2_Hans_Villalobos/src/main/java/com/cibertec/t2/model/DetalleAlquiler.java
+/Users/hansgiancarlovillaloboschavez/Downloads/LPII_T2_Hans_Villalobos/src/main/java/com/cibertec/t2/model/Pelicula.java
+/Users/hansgiancarlovillaloboschavez/Downloads/LPII_T2_Hans_Villalobos/src/main/java/com/cibertec/t2/repository/AlquilerRepository.java
+/Users/hansgiancarlovillaloboschavez/Downloads/LPII_T2_Hans_Villalobos/src/main/java/com/cibertec/t2/repository/ClienteRepository.java
+/Users/hansgiancarlovillaloboschavez/Downloads/LPII_T2_Hans_Villalobos/src/main/java/com/cibertec/t2/repository/PeliculaRepository.java
+/Users/hansgiancarlovillaloboschavez/Downloads/LPII_T2_Hans_Villalobos/src/main/java/com/cibertec/t2/service/AlquilerService.java
+/Users/hansgiancarlovillaloboschavez/Downloads/LPII_T2_Hans_Villalobos/src/main/java/com/cibertec/t2/service/ClienteService.java
+/Users/hansgiancarlovillaloboschavez/Downloads/LPII_T2_Hans_Villalobos/src/main/java/com/cibertec/t2/service/PeliculaService.java

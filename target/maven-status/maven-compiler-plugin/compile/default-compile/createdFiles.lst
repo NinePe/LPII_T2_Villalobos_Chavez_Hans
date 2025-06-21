@@ -1,0 +1,15 @@
+com/cibertec/t2/model/Cliente.class
+com/cibertec/t2/T2Application.class
+com/cibertec/t2/controller/HomeController.class
+com/cibertec/t2/repository/ClienteRepository.class
+com/cibertec/t2/service/ClienteService.class
+com/cibertec/t2/model/Alquiler.class
+com/cibertec/t2/service/PeliculaService.class
+com/cibertec/t2/model/Pelicula.class
+com/cibertec/t2/model/DetalleAlquiler.class
+com/cibertec/t2/controller/ClienteController.class
+com/cibertec/t2/repository/AlquilerRepository.class
+com/cibertec/t2/controller/AlquilerController.class
+com/cibertec/t2/controller/PeliculaController.class
+com/cibertec/t2/repository/PeliculaRepository.class
+com/cibertec/t2/service/AlquilerService.class
